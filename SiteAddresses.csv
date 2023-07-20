@@ -1,0 +1,143 @@
+nk_pop;city;uf;country
+SITE001   ;New York City;NY;USA
+SITE002   ;Los Angeles;CA;USA
+SITE003   ;Chicago;IL;USA
+SITE004   ;Houston;TX;USA
+SITE005   ;Phoenix;AZ;USA
+SITE006   ;Philadelphia;PA;USA
+SITE007   ;San Antonio;TX;USA
+SITE008   ;San Diego;CA;USA
+SITE009   ;Dallas;TX;USA
+SITE010   ;Austin;TX;USA
+SITE011   ;Jacksonville;FL;USA
+SITE012   ;Fort Worth;TX;USA
+SITE013   ;San Jose;CA;USA
+SITE014   ;Columbus;OH;USA
+SITE015   ;Charlotte;NC;USA
+SITE016   ;Indianapolis;IN;USA
+SITE017   ;Seattle;WA;USA
+SITE018   ;San Francisco;CA;USA
+SITE019   ;Denver;CO;USA
+SITE020   ;Oklahoma City;OK;USA
+SITE021   ;El Paso;TX;USA
+SITE022   ;Nashville;TN;USA
+SITE023   ;Las Vegas;NV;USA
+SITE024   ;Washington;DC;USA
+SITE025   ;Memphis;TN;USA
+SITE026   ;Louisville;KY;USA
+SITE027   ;Detroit;MI;USA
+SITE028   ;Portland;OR;USA
+SITE029   ;Boston;MA;USA
+SITE030   ;Baltimore;MD;USA
+SITE031   ;Albuquerque;NM;USA
+SITE032   ;Milwaukee;WI;USA
+SITE033   ;Fresno;CA;USA
+SITE034   ;Tucson;AZ;USA
+SITE035   ;Sacramento;CA;USA
+SITE036   ;Mesa;AZ;USA
+SITE037   ;Kansas City;MO;USA
+SITE038   ;Colorado Springs;CO;USA
+SITE040   ;Atlanta;GA;USA
+SITE041   ;Omaha;NE;USA
+SITE042   ;Raleigh;NC;USA
+SITE043   ;Virginia Beach;VA;USA
+SITE044   ;Long Beach;CA;USA
+SITE045   ;Miami;FL;USA
+SITE046   ;Oakland;CA;USA
+SITE047   ;Minneapolis;MN;USA
+SITE048   ;Bakersfield;CA;USA
+SITE049   ;Tulsa;OK;USA
+SITE050   ;Aurora;CO;USA
+SITE051   ;Tampa;FL;USA
+SITE052   ;Wichita;KS;USA
+SITE053   ;Arlington;TX;USA
+SITE054   ;New Orleans;LA;USA
+SITE055   ;Cleveland;OH;USA
+SITE056   ;Anaheim;CA;USA
+SITE057   ;Honolulu;HI;USA
+SITE058   ;Henderson;NV;USA
+SITE059   ;Stockton;CA;USA
+SITE060   ;Riverside;CA;USA
+SITE061   ;Lexington;KY;USA
+SITE062   ;Corpus Christi;TX;USA
+SITE063   ;Irvine;CA;USA
+SITE064   ;Orlando;FL;USA
+SITE066   ;Santa Ana;CA;USA
+SITE067   ;Cincinnati;OH;USA
+SITE068   ;Newark;NJ;USA
+SITE069   ;St. Paul;MN;USA
+SITE070   ;Greensboro;NC;USA
+SITE071   ;Pittsburgh;PA;USA
+SITE072   ;Santa Barbara;CA;USA
+SITE073   ;North Las Vegas;NV;USA
+SITE074   ;Plano;TX;USA
+SITE075   ;Lynchburg;VA;USA
+SITE076   ;Chandler;AZ;USA
+SITE077   ;Anchorage;AK;USA
+SITE078   ;Gilbert;AZ;USA
+SITE079   ;St. Louis;MO;USA
+SITE080   ;Chula Vista;CA;USA
+SITE081   ;Reno;NV;USA
+SITE082   ;Buffalo;NY;USA
+SITE083   ;Madison;WI;USA
+SITE084   ;Fort Wayne;IN;USA
+SITE085   ;Jersey City;NJ;USA
+SITE086   ;Lubbock;TX;USA
+SITE087   ;Dayton;OH;USA
+SITE088   ;Laredo;TX;USA
+SITE089   ;Allentown;PA;USA
+SITE090   ;Chesapeake;VA;USA
+SITE091   ;Winston-Salem;NC;USA
+SITE092   ;Glendale;AZ;USA
+SITE093   ;Irving;TX;USA
+SITE094   ;Scottsdale;AZ;USA
+SITE095   ;Port St. Lucie;FL;USA
+SITE096   ;Boise;ID;USA
+SITE097   ;Garland;TX;USA
+SITE098   ;Norfolk;VA;USA
+SITE099   ;Spokane;WA;USA
+SITE100   ;Frisco;TX;USA
+SITE101   ;Richmond;VA;USA
+SITE102   ;San Bernardino;CA;USA
+SITE103   ;Cape Coral;FL;USA
+SITE104   ;Huntsville;AL;USA
+SITE105   ;Fremont;CA;USA
+SITE106   ;Modesto;CA;USA
+SITE107   ;Tacoma;WA;USA
+SITE108   ;Baton Rouge;LA;USA
+SITE109   ;Hialeah;FL;USA
+SITE110   ;Santa Clarita;CA;USA
+SITE111   ;Moreno Valley;CA;USA
+SITE112   ;Fontana;CA;USA
+SITE113   ;McKinney;TX;USA
+SITE114   ;Rochester;NY;USA
+SITE115   ;Fayetteville;NC;USA
+SITE116   ;Des Moines;IA;USA
+SITE117   ;Yonkers;NY;USA
+SITE118   ;Worcester;MA;USA
+SITE119   ;Sioux Falls;SD;USA
+SITE120   ;Columbus;GA;USA
+SITE121   ;Salt Lake City;UT;USA
+SITE122   ;Amarillo;TX;USA
+SITE123   ;Oxnard;CA;USA
+SITE124   ;Little Rock;AR;USA
+SITE125   ;Peoria;AZ;USA
+SITE126   ;Augusta;GA;USA
+SITE127   ;Grand Prairie;TX;USA
+SITE128   ;Tallahassee;FL;USA
+SITE129   ;Knoxville;TN;USA
+SITE130   ;Overland Park;KS;USA
+SITE131   ;Montgomery;AL;USA
+SITE132   ;Grand Rapids;MI;USA
+SITE133   ;Vancouver;WA;USA
+SITE134   ;Huntington Beach;CA;USA
+SITE135   ;Huntsville;AL;USA
+SITE136   ;Tempe;AZ;USA
+SITE137   ;Brownsville;TX;USA
+SITE138   ;Providence;RI;USA
+SITE139   ;Akron;OH;USA
+SITE140   ;Glendale;CA;USA
+SITE141   ;Chattanooga;TN;USA
+SITE142   ;Vancouver;BC;CAN
+SITE143   ;Toronto;ON;CAN
+SITE144   ;Edmonton;AL;CAN
